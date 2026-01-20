@@ -1,5 +1,5 @@
 // Configuration
-const WHATSAPP_NUMBER = "237658309638"; // Format: 33612345678 (sans +)
+const WHATSAPP_NUMBER = "237656662311"; // Format: 33612345678 (sans +)
 
 // Questions du formulaire
 const questions = [
